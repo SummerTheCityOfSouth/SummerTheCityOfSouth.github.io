@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>夏了南城</title>
   
-  
+  <subtitle>欢迎来到 我的 iOS 开发小站，我是王孝飞，iOS 开发者，正向高级的方向努力。喜欢研究问题的本质，讨厌一切不说人话的描述。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://SummerTheCityOfSouth/"/>
   <updated>2018-07-30T07:31:56.942Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://SummerTheCityOfSouth/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>王孝飞</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/07/30/hello-world/"/>
-    <id>http://yoursite.com/2018/07/30/hello-world/</id>
+    <link href="http://SummerTheCityOfSouth/2018/07/30/hello-world/"/>
+    <id>http://SummerTheCityOfSouth/2018/07/30/hello-world/</id>
     <published>2018-07-30T07:31:56.942Z</published>
     <updated>2018-07-30T07:31:56.942Z</updated>
     
